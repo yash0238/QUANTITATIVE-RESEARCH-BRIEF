@@ -73,20 +73,24 @@ The execution pipeline consolidated the intersecting data segments to build out 
 | Greed                    | 36,289          | 3,189,617.00          | 44.65%                | 7.23              | 0.0765                            |
 | Extreme Greed            | 6,962           | 176,965.50            | 49.01%                | 3.22              | 0.0830                            |
 
+![Quant Alpha Report](outputs/quant_alpha_report.png)
+
 ---
 
 # Mathematical Definitions of Quant Descriptors
 
 **Profit Factor ($PF$)**
-\[
+
+$$
 PF = \frac{\sum_{i=1}^{n} \max(0, \text{PnL}_i)}{\sum_{i=1}^{n} \left| \min(0, \text{PnL}_i) \right|}
-\]
+$$
 
 **Risk-Adjusted Return Ratio ($RARR$)**
 
-\[
+$$
 RARR = \frac{\mu_{\text{PnL}}}{\sigma_{\text{PnL}}}
-\]
+$$
+
 
 ---
 
