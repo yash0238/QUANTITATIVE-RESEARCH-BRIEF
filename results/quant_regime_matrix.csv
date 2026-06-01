@@ -1,0 +1,5 @@
+classification,Total_Trades,Total_PnL_USD,Win_Rate_Pct,Profit_Factor,Risk_Adjusted_Ratio
+Extreme Greed,6962,176965.49,49.01,3.22,0.083
+Fear,133871,6699925.19,41.51,5.97,0.0551
+Greed,36289,3189616.54,44.65,7.23,0.0765
+Neutral,7141,158742.38,31.72,1.96,0.0351
