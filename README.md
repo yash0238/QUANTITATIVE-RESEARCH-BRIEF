@@ -73,7 +73,9 @@ The execution pipeline consolidated the intersecting data segments to build out 
 | Greed                    | 36,289          | 3,189,617.00          | 44.65%                | 7.23              | 0.0765                            |
 | Extreme Greed            | 6,962           | 176,965.50            | 49.01%                | 3.22              | 0.0830                            |
 
-![Quant Alpha Report](outputs/quant_alpha_report.png)
+![Quant Alpha Report](results/quant_alpha_report.png)
+![Quant Alpha Report]([https://raw.githubusercontent.com/username/repo/main/outputs/quant_alpha_report.png](https://github.com/yash0238/QUANTITATIVE-RESEARCH-BRIEF/blob/main/results/quant_alpha_report.png))
+
 
 ---
 
